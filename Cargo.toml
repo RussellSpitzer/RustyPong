@@ -1,0 +1,8 @@
+[package]
+
+name = "rusty_pong"
+version = "0.0.1"
+authors = [ "Russell Spitzer <russell.spitzer@gmail.com>" ]
+
+[dependencies]
+piston_window = "0.105.0"
